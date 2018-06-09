@@ -20,3 +20,6 @@ You need to create the appropriate indices and mappings for `elasticsearch`.
 # start the applications
 
 `lerna run --parallel start`
+
+### note
+some packages are out of date...
