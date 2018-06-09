@@ -17,6 +17,10 @@ You need to create the appropriate indices and mappings for `elasticsearch`.
 
 [yeg-relief/utils](https://github.com/yeg-relief/utils/tree/master/seed)
 
+### note
+
+You can seed with the web application in the admin section, best to find a good `data.json` file and use that approach. 
+
 # start the applications
 
 `lerna run --parallel start`
