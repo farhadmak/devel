@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.5",
+    "mgit2": "^0.5.1"
+  },
+  "private": true,
+  "scripts": {
+    "start": "lerna run --parallel start",
+    "login": "ssh -i ./key-pairs/cloud.key <!-- username:ip -->",
+    "caddy": "nohup caddy &"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "api-server": "yeg-relief/api-server",
+        "screenerClient": "yeg-relief/screenerClient",
+        "utils": "yeg-relief/utils"
+    },
+    "resolverDirectoryName": "git",
+    "resolverDefaultBranch": "master"
+}
